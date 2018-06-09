@@ -13,6 +13,7 @@ sudo apt-get install -y libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools
 sudo apt-get install -y libprotobuf-dev protobuf-compiler
 sudo apt-get install -y libqrencode-dev
 sudo apt-get install -y libdb++-dev
+sudo apt-get install -y libevent-dev
 
 
 # build bitcoin reference implementation from source
