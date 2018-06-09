@@ -9,9 +9,10 @@ sudo apt-get install -y libssl-dev
 sudo apt-get install -y libboost-all-dev
 sudo apt-get install -y libdb5.1++-dev
 sudo apt-get install -y pkg-config
-sudo apt-get install -y libqt4-core libqt4-gui libqt4-dev
+sudo apt-get install -y libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools
 sudo apt-get install -y libprotobuf-dev protobuf-compiler
 sudo apt-get install -y libqrencode-dev
+sudo apt-get install -y libdb++-dev
 
 
 # build bitcoin reference implementation from source
